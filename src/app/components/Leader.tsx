@@ -4,7 +4,7 @@ import Image from "next/image";
 const Leader = () => {
   return (
     <div className="bg-[#000235]">
-      <div className=" bg-[#00042D] px-4 py-4 text-white">
+      <div className=" bg-[#00042D] px-4 py-2 text-white">
         <div className=" flex justify-center  mx-4 my-4 py-6  text-white font-[poppins]">
          <div> <h1 className="animate-pulse text-4xl py-10  border-l-2 border-solid px-4 border-white  ">Our Teachers</h1></div>
           
